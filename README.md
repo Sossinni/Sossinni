@@ -5,9 +5,9 @@ const Soss4 = {
   learn2code: ['Python*, Java]
   IDE's: [IJ, Eclipse, Visual Studio Code, Atom],
   techCommunities: {
-                     founder: "<β-byte/>",
+                     founder: "<β-coders/>",
                      speaker: "ES & lrn EN" ,
-                     mentor: "U2"
+                     mentor: "U2 & #LoncanVasACaer"
                       },
  challenge: "I'm doing the #90DaysOfCode challenge focused on Java OOP"
 }
