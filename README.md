@@ -3,13 +3,13 @@
 const Soss4 = {
   pronouns: "he" | "his",
   learn2code: ['Python*, Java]
-  IDE's: [IJ, Eclipse, Visual Studio Code, Atom],
+  IDE's: [IJ, Eclipse, Visual Studio Code, NetBeans],
   techCommunities: {
                      founder: "<β-coders/>",
                      speaker: "ES & lrn EN" ,
                      mentor: "U2 & #LoncanVasACaer"
                       },
- challenge: "I'm doing the #90DaysOfCode challenge focused on Java OOP"
+ challenge: "I'm doing the #7DaysOfCode challenge focused on Java"
 }
 ```
 
